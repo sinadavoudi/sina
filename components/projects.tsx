@@ -11,10 +11,10 @@ const projects = [
   },
   {
     year: "2025",
-    title: "SaaS Analytics Dashboard",
-    description: "Real-time analytics platform processing millions of events daily with custom visualizations.",
-    tags: ["React", "Node.js", "ClickHouse", "WebSocket"],
-    link: "#",
+    title: "Greenbank Website Development",
+    description: "GreenBank is a front-end banking website demo built using HTML and CSS. It features a clean, modern design inspired by sustainable banking, focusing on layout, responsiveness, and user-friendly UI. This project is for demonstration purposes only and includes no back-end functionality.",
+    tags: ["HTML", "CSS"],
+    link: "https://sinadavoudi.github.io/Greenbank/",
   },
   {
     year: "2024",
