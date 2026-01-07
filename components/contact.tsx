@@ -1,10 +1,10 @@
 import { Mail, Github, Linkedin, Twitter } from "lucide-react"
 
 const socials = [
-  { name: "Email", icon: Mail, href: "mailto:hello@example.com", label: "hello@example.com" },
-  { name: "GitHub", icon: Github, href: "https://github.com", label: "github.com" },
-  { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com", label: "linkedin.com" },
-  { name: "Twitter", icon: Twitter, href: "https://twitter.com", label: "twitter.com" },
+  { name: "Email", icon: Mail, href: "mailto:isinadavoudi@gmail.com", label: "isinadavoudi@gmail.com" },
+  { name: "GitHub", icon: Github, href: "https://github.com/sinadavoudi", label: "github.com/sinadavoudi" },
+  { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/sinadavoudi", label: "linkedin.com/sinadavoudi" },
+  { name: "Twitter", icon: Twitter, href: "https://twitter.com/sinadavoudi", label: "twitter.com/sinadavoudi" },
 ]
 
 export function Contact() {
@@ -45,7 +45,7 @@ export function Contact() {
           <div className="pt-12 sm:pt-16 border-t border-border">
             <div className="flex flex-col md:flex-row justify-between gap-2 sm:gap-4 text-xs sm:text-sm text-muted-foreground">
               <p>© 2026 — All rights reserved</p>
-              <p>Designed & developed with precision</p>
+              <p>Designed & developed by Sina Davoudi</p>
             </div>
           </div>
         </div>

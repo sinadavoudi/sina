@@ -30,7 +30,7 @@ export function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm border-b border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
-        <div className="text-xs sm:text-sm font-medium tracking-wider">Sina Davoudi</div>
+        <div className="text-xs sm:text-sm font-medium tracking-wider">SINA DAVOUDI</div>
 
         <nav className="hidden md:flex items-center gap-8">
           <a href="#about" className="text-sm hover:text-muted-foreground transition-colors">
