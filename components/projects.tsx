@@ -34,7 +34,7 @@ const projects = [
 
 export function Projects() {
   return (
-    <section className="min-h-screen px-4 sm:px-6 py-16 sm:py-24">
+    <section id="projects" className="min-h-screen px-4 sm:px-6 py-16 sm:py-24">
       <div className="max-w-5xl w-full mx-auto space-y-12 sm:space-y-16">
         <div className="space-y-2">
           <p className="text-xs sm:text-sm text-muted-foreground tracking-wider">[ 02 — SELECTED WORK ]</p>

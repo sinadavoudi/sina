@@ -3,8 +3,8 @@ import { Mail, Github, Linkedin, Twitter } from "lucide-react"
 const socials = [
   { name: "Email", icon: Mail, href: "mailto:isinadavoudi@gmail.com", label: "isinadavoudi@gmail.com" },
   { name: "GitHub", icon: Github, href: "https://github.com/sinadavoudi", label: "github.com/sinadavoudi" },
-  { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/sinadavoudi", label: "linkedin.com/sinadavoudi" },
-  { name: "Twitter", icon: Twitter, href: "https://twitter.com/sinadavoudi", label: "twitter.com/sinadavoudi" },
+  { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/in/sinadavoudi", label: "linkedin.com/in/sinadavoudi" },
+  { name: "Twitter", icon: Twitter, href: "#", label: "Soon will be published.." },
 ]
 
 export function Contact() {
