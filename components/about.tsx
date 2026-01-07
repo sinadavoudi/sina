@@ -2,22 +2,24 @@ import { Badge } from "@/components/ui/badge"
 
 export function About() {
   const skills = [
+    "HTML",
+    "CSS",
+    "TailwindCSS",
     "React",
     "Next.js",
     "TypeScript",
-    "Node.js",
     "PostgreSQL",
     "MongoDB",
-    "TailwindCSS",
-    "GraphQL",
-    "Docker",
-    "AWS",
+    "Django",
+    "Python",
     "Git",
     "REST APIs",
+    "Bootstrap",
+    "Figma",
   ]
 
   return (
-    <section className="min-h-screen flex items-center px-4 sm:px-6 py-16 sm:py-24">
+    <section id="about" className="min-h-screen flex items-center px-4 sm:px-6 py-16 sm:py-24">
       <div className="max-w-5xl w-full mx-auto">
         <div className="grid md:grid-cols-2 gap-12 md:gap-16 lg:gap-24">
           <div className="space-y-4 sm:space-y-6">

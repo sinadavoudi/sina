@@ -9,7 +9,7 @@ const socials = [
 
 export function Contact() {
   return (
-    <section className="min-h-screen flex items-center px-4 sm:px-6 py-16 sm:py-24">
+    <section id="contact" className="min-h-screen flex items-center px-4 sm:px-6 py-16 sm:py-24">
       <div className="max-w-5xl w-full mx-auto">
         <div className="space-y-12 sm:space-y-16">
           <div className="space-y-4 sm:space-y-6">
